@@ -92,16 +92,6 @@ if captured_image is not None:
 else:
     print("Unable to load the captured image.")
 ```
-
-<<<<<<< HEAD
-**Output image:** Upload your captured image here, for example `captured_frame.jpg`.
-
-![Captured Frame](captured_frame.jpg)
-=======
-<img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/eb45b1ab-ea25-42ca-8bfa-14f5082c0919" />
-
->>>>>>> a025634b3a62b1aa10a3b8674b1ea8f12d11c9be
-
 ### 2. Display the Video
 
 ```python
@@ -121,15 +111,6 @@ for i in range(50):
 
 cap.release()
 ```
-
-<<<<<<< HEAD
-**Output image:** Upload a screenshot of the displayed video here.
-
-![Video Display](video_display.png)
-=======
-
-<img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/b0a7009b-bf6e-4493-bf2f-84d0ff3d53e0" />
->>>>>>> a025634b3a62b1aa10a3b8674b1ea8f12d11c9be
 
 ### 3. Display the Video by Resizing the Frame
 
@@ -152,15 +133,6 @@ for i in range(50):
 
 cap.release()
 ```
-
-<<<<<<< HEAD
-**Output image:** Upload a screenshot of the resized video here.
-
-![Resized Video](resized_video.png)
-=======
-<img width="266" height="389" alt="image" src="https://github.com/user-attachments/assets/b018fe70-c3ac-4ee7-a544-c86696097550" />
->>>>>>> a025634b3a62b1aa10a3b8674b1ea8f12d11c9be
-
 ### 4. Rotate and Display the Video
 
 ```python
@@ -182,14 +154,6 @@ for i in range(50):
 
 cap.release()
 ```
-<<<<<<< HEAD
-
-**Output image:** Upload a screenshot of the rotated video here.
-
-![Rotated Video](rotated_video.png)
-=======
-<img width="297" height="389" alt="image" src="https://github.com/user-attachments/assets/e2c4721c-7b8c-4043-87cb-2b6e45446f73" />
->>>>>>> a025634b3a62b1aa10a3b8674b1ea8f12d11c9be
 
 ---
 
