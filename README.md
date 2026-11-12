@@ -92,6 +92,10 @@ if captured_image is not None:
 else:
     print("Unable to load the captured image.")
 ```
+
+<img width="266" height="389" alt="image" src="https://github.com/user-attachments/assets/cda0d0b5-248b-4b4f-8150-2f85adc977de" />
+
+
 ### 2. Display the Video
 
 ```python
@@ -111,6 +115,8 @@ for i in range(50):
 
 cap.release()
 ```
+
+<img width="297" height="389" alt="image" src="https://github.com/user-attachments/assets/4e5e3d40-2191-4f3c-ab97-c726314a08d7" />
 
 ### 3. Display the Video by Resizing the Frame
 
@@ -133,6 +139,9 @@ for i in range(50):
 
 cap.release()
 ```
+
+<img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/e3242198-9455-4da1-b965-cb1c79520ac7" />
+
 ### 4. Rotate and Display the Video
 
 ```python
@@ -154,6 +163,7 @@ for i in range(50):
 
 cap.release()
 ```
+<img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/81071a16-d7d2-40eb-9f8f-5f052d81cded" />
 
 ---
 
