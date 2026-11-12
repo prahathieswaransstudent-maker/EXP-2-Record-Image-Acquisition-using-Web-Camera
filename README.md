@@ -93,7 +93,7 @@ else:
     print("Unable to load the captured image.")
 ```
 
-<img width="266" height="389" alt="image" src="https://github.com/user-attachments/assets/cda0d0b5-248b-4b4f-8150-2f85adc977de" />
+<img width="266" height="389" alt="image" src="https://github.com/user-attachments/assets/224595d6-2c48-4191-834b-9cd2e28f04c0" />
 
 
 ### 2. Display the Video
@@ -116,7 +116,7 @@ for i in range(50):
 cap.release()
 ```
 
-<img width="297" height="389" alt="image" src="https://github.com/user-attachments/assets/4e5e3d40-2191-4f3c-ab97-c726314a08d7" />
+<img width="297" height="389" alt="image" src="https://github.com/user-attachments/assets/d198dd23-4a34-44da-a1b2-8873d1ec986e" />
 
 ### 3. Display the Video by Resizing the Frame
 
@@ -140,7 +140,7 @@ for i in range(50):
 cap.release()
 ```
 
-<img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/e3242198-9455-4da1-b965-cb1c79520ac7" />
+<img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/23113a3d-1930-4f0b-8dfc-f59a980c94d0" />
 
 ### 4. Rotate and Display the Video
 
@@ -163,7 +163,8 @@ for i in range(50):
 
 cap.release()
 ```
-<img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/81071a16-d7d2-40eb-9f8f-5f052d81cded" />
+
+<img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/4df2552f-cf87-4f03-9515-dd7d8006009c" />
 
 ---
 
